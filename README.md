@@ -2,4 +2,4 @@
 Personal website for displaying projects, acheivements, and experimenting with front-end stuff. Uses Github Pages to host the website files found here.
 
 ### Link to Website
-TBD
+[Click here](https://brendanl72.github.io/)
